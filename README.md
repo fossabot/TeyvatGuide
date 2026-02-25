@@ -44,6 +44,7 @@ Game Tool for Genshin Impact player, supports Windows and macOS.
 ## 仓库概况 / Repo Stats
 
 ![Status](https://repobeats.axiom.co/api/embed/345d4bae5dc7e5184af4452b9dad01a671e220b3.svg "Repobeats analytics image")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBTMuli%2FTeyvatGuide.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FBTMuli%2FTeyvatGuide?ref=badge_shield)
 
 ## 功能 / Features
 
@@ -138,6 +139,9 @@ Game Tool for Genshin Impact player, supports Windows and macOS.
 应用版本号遵循 [Semantic Versioning 2.0.0](https://semver.org/lang/zh-CN/) 规范。
 
 隐私政策：[Privacy](https://app.btmuli.ink/docs/TeyvatGuide/privacy.html)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBTMuli%2FTeyvatGuide.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FBTMuli%2FTeyvatGuide?ref=badge_large)
 
 ## 鸣谢 / Thanks
 
